@@ -1,2 +1,2 @@
-# mirchiWebsite
-restaurant website with html, css and javascript
+# Trinity-Website
+Website for Trinity: http://trinitycounselingmandeville.com/
